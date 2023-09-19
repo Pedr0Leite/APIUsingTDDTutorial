@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj",
       "projectName": "CloudCustomers.API",
-      "projectPath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj",
+      "projectPath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.API\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

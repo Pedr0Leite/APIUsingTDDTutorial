@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VNcPNg098B15ILCaGLNS19gJclSdAWh61jXfNyE559o2GIfRxaBDiNjnA2NfiBEmSqGa5HRRZjBEEJfizzkOdQ==",
+  "dgSpecHash": "r/dhpYz42wl4RMfVtwrHy6zbi8EBqOI6zlcZ7tNatR8riwwISIUF0REKKJJ3YRtb5u0mWkEf1UlYhv7SBHWloA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

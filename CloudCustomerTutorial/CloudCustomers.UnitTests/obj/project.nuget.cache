@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4UlyyW5r2fmBsgu4MzaVp8JQRbJMqRAznr6Z1Jwq2aYl52HiAdMqPEwHpoYLwrDpsLesf160MPxTCeYz3BR36w==",
+  "dgSpecHash": "uj/dA2vF+ry+dbC+u12DV5/rZz9w1D6NkoWCjA+Rmg2xEEYtiYs/5u+Pscyd8NVCtWumtEW+qziN4DmaFHT0BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

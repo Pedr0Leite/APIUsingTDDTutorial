@@ -6265,11 +6265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
       "projectName": "CloudCustomers.UnitTests",
-      "projectPath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
+      "projectPath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6286,8 +6286,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj": {
-              "projectPath": "C:\\Users\\pedro\\source\\repos\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj"
+            "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj": {
+              "projectPath": "C:\\Users\\pedro\\source\\repos\\APIUsingTDDTutorial\\CloudCustomerTutorial\\CloudCustomers.API\\CloudCustomers.API.csproj"
             }
           }
         }
